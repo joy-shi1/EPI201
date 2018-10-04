@@ -1,3 +1,4 @@
 v 1.0
 d Program modified by Joy Shi
-p To analyze count data for EPI202
+d To analyze count data for EPI202
+p cs2

@@ -5,4 +5,4 @@ d Modified October 4, 2018
 d
 d
 d
-p cs2
+p cs2.pkg

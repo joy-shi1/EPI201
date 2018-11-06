@@ -1,7 +1,8 @@
-d 'cs2': Analyzing Count Data for EPI202
-d Modified October 4, 2018
-d By Joy Shi
+d 'epi202': Analyzing Count and Rate Data for EPI202
+d Modified November 6, 2018
+d By Geetha Iyer and Joy Shi
 d
 d
 f cs2.ado
-f cs2.sthlp
+f ir2.ado
+f epi202.sthlp
